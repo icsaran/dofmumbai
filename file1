@@ -1,4 +1,10 @@
 testing git diff with a new file
 testin for untrack
 testing the git
+<<<<<<< HEAD
 tew122455t
+=======
+tew
+testing
+it
+>>>>>>> 4c88b9f957ae72eaadb775579ba2bbd25ad61b67
